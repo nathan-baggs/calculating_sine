@@ -17,3 +17,5 @@ Makefile
 .clangd/
 compile_commands.json
 .vscode/
+utils/venv
+.venv/
